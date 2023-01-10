@@ -7,7 +7,7 @@ const Header = () => {
   return (
     <div className="ab11__header section__padding" id="home">
       <div className="ab11__header-content">
-        <h1 className="gradient__text">
+        <h1 className="gradient_text">
           Let’s Build Something amazing with GPT-3 OpenAI
         </h1>
         <p>
